@@ -1,6 +1,6 @@
 site_title = "MyArxiv for Robotics"
 limit_days = 14
-cache_url = "https://soul0knight.github.io/JS_Arxiv/cache.json"
+cache_url = "https://soul0knight.github.io/MyArxiv/cache.json"
 
 [[sources]]
 limit = 150
