@@ -1,4 +1,4 @@
-site_title = "Junshun's Arxiv"
+site_title = "MyArxiv for Robotics"
 limit_days = 14
 cache_url = "https://soul0knight.github.io/JS_Arxiv/cache.json"
 
