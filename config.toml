@@ -3,11 +3,6 @@ limit_days = 14
 cache_url = "https://soul0knight.github.io/JS_Arxiv/cache.json"
 
 [[sources]]
-limit = 200
-category = "cs.CV"
-title = "Computer Vision and Pattern Recognition"
-
-[[sources]]
 limit = 150
 category = "cs.RO"
 title = "Robotics"
